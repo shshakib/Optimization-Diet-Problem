@@ -1,7 +1,7 @@
 # Optimization-Diet-Problem
 
 The diet problem is one of the first large-scale optimization problems to be studied in practice. Back in the 1930’s and 40’s, the Army wanted to meet the nutritional
-requirements of its soldiers while minimizing the cost
+requirements of its soldiers while minimizing the cost.
 
 15-2-1.	An optimization model (a linear program) to find the cheapest diet that satisfies the maximum and minimum daily nutrition constraints using PuLP.
 
